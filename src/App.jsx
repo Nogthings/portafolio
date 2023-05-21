@@ -1,7 +1,6 @@
 import Laravel from "./assets/Laravel.png";
 import Cloud from "./assets/Cloud.png";
 import Logo from "./assets/Logo.png";
-import React from "./assets/React.svg";
 import LaravelIcon from "./assets/Laravel.svg";
 import Maps from "./assets/Maps.svg";
 import Rutas from "./assets/Rutas.jpeg";
