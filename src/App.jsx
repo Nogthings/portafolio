@@ -1,13 +1,14 @@
-import Laravel from "./assets/Laravel.png";
-import Cloud from "./assets/Cloud.png";
-import Logo from "./assets/Logo.png";
-import LaravelIcon from "./assets/Laravel.svg";
-import Maps from "./assets/Maps.svg";
-import Rutas from "./assets/Rutas.jpeg";
-import Biblioteca from "./assets/Biblioteca.png";
-import Menu from "./assets/Menu.png";
-import Devstagram from "./assets/Devstagram.png";
-import Portafolio from "./assets/Portafolio.png";
+import Laravel from "/Laravel.png";
+import Cloud from "/Cloud.png";
+import Logo from "/Logo.png";
+import React from "/react.svg";
+import LaravelIcon from "/laravel.svg";
+import Maps from "/maps.svg";
+import Rutas from "/Rutas.jpeg";
+import Biblioteca from "/Biblioteca.png";
+import Menu from "/menu.png";
+import Devstagram from "/devstagram.png";
+import Portafolio from "/portafolio.png";
 
 export default function App() {
   return (
