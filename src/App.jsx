@@ -45,8 +45,11 @@ export default function App() {
 
                 <div className="flex items-center ml-auto sm:ml-0 sm:order-3">
                   <div className="pl-3 sm:pl-6 sm:ml-6 sm:border-l sm:border-gray-300 dark:border-gray-700">
-                    <a className="p-2 inline-flex justify-center items-center gap-2 rounded-md border font-medium bg-white text-gray-700 shadow-sm align-middle hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-white focus:ring-blue-600 transition-all text-sm dark:bg-gray-800 dark:hover:bg-slate-800 dark:border-gray-700 dark:text-gray-400 dark:hover:text-white dark:focus:ring-offset-gray-800 px-5">
-                      Blog
+                    <a 
+                    href="https://github.com/Nogthings/cv/raw/tmain/Oscar%20Galvez%20CV.pdf"
+                    download="oscargalvez-cv.pdf"
+                    className="p-2 inline-flex justify-center items-center gap-2 rounded-md border font-medium bg-white text-gray-700 shadow-sm align-middle hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-white focus:ring-blue-600 transition-all text-sm dark:bg-gray-800 dark:hover:bg-slate-800 dark:border-gray-700 dark:text-gray-400 dark:hover:text-white dark:focus:ring-offset-gray-800 px-5">
+                      Resumen
                     </a>
                   </div>
                 </div>
